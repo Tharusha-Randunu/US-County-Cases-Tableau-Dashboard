@@ -1,4 +1,4 @@
-![0320d556-8a26-4580-b46c-594085ce2d4b](https://github.com/user-attachments/assets/eb0523ef-d3d2-45e6-afd3-13bf5ee1c616)# 📊 US County COVID-19 Cases – Tableau Dashboard  
+# 📊 US County COVID-19 Cases – Tableau Dashboard  
 
 ## 📌 Project Overview  
 This project visualizes COVID-19 cases across **US counties** using **Tableau**. The dashboard provides insights into the spread of cases, trends over time, and geographical distribution to aid in data-driven decision-making.  
